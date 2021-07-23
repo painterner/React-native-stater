@@ -1,0 +1,26 @@
+{
+    "customerCarePhone": "18002098100",
+    "questions": [
+        {
+            "topic": "Topic1",
+            "details": {
+            }
+        },
+        {
+            "topic": "Topic2",
+            "details": {
+            }
+        },
+        {
+            "topic": "Topic3",
+            "details": {
+            }
+        }
+    ],
+    "cateGoryOptions": [
+        {
+            "label": "cate1",
+            "value": "cate2"
+        }
+    ]
+}

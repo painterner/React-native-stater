@@ -1,0 +1,26 @@
+{
+    "pointsBalance": 1500,
+    "reachMessage": "Reach Gold by reaching 10,000 points or more by 12:00 PM 30 June 2021",
+    "points": {
+        "history": [
+            {
+                "image": "BigButton_Mechanic",
+                "title": "Total Earned",
+                "value":1033000,
+                "time": "13 Apr 2021, 10:00AM"
+            },
+            {
+                "image": "Claim",
+                "title": "Total Spend",
+                "value":1033000,
+                "time": "13 Apr 2021, 10:00AM"
+            },
+            {
+                "image": "Claim",
+                "title": "Expiring Points",
+                "value": 1033000,
+                "time": "13 Apr 2021, 10:00AM"
+            }
+        ]
+    }
+}

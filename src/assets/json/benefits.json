@@ -1,0 +1,20 @@
+{
+    "tierStatus": "UNLOCKED",
+    "tierRewards": [
+      {
+        "title": "Tier Reward Title",
+        "description":
+          "Tier Reward description text goes here Sed ut perspicials unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+      },
+      {
+        "title": "Tier Reward Title2",
+        "description":
+          "Tier Reward description text goes here Sed ut perspicials unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+      },
+      {
+        "title": "Tier Reward Title3",
+        "description":
+          "Tier Reward description text goes here Sed ut perspicials unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+      }
+    ]
+}

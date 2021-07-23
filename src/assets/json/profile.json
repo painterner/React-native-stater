@@ -1,0 +1,117 @@
+{
+    "john": {
+        "type": "mechanic",
+        "avatar": "AVATAR[0]",
+        "name": "John",
+        "firstName": "John",
+        "lastName": "jack",
+        "email": "john@example.com",
+        "mobile": "1222333",
+        "workName": "workName1",
+        "vatNumber": "11223344",
+        "addrLine": "addrLine",
+        "addrLine2": "addrLine2",
+        "areaCode": "areaCode",
+        "counts": [
+            {
+                "count": 1500,
+                "label": "POINTS"
+            },
+            {
+                "count": 10,
+                "label": "REWARDS"
+            },
+            {
+                "count": 8,
+                "label": "BADGES"
+            },
+            {
+                "count": 20,
+                "label": "RANKING"
+            }
+        ],
+        "rankings": [
+            {
+                "firstName": "NAME1",
+                "lastName": "SURNAME1",
+                "avatar": "AVATAR[0]",
+                "points": 1500
+            },
+            {
+                "firstName": "NAME2",
+                "lastName": "SURNAME2",
+                "avatar": "AVATAR[1]",
+                "points": 1000
+            },
+            {
+                "firstName": "NAME3",
+                "lastName": "SURNAME3",
+                "avatar": "AVATAR[0]",
+                "points": 500
+            },
+            {
+                "firstName": "NAME4",
+                "lastName": "SURNAME4",
+                "avatar": "AVATAR[0]",
+                "points": 500
+            },
+            {
+                "firstName": "NAME5",
+                "lastName": "SURNAME5",
+                "avatar": "AVATAR[0]",
+                "points": 400
+            }
+        ],
+        "pointsBalance": "15,000"
+    },
+    "jack": {
+        "type": "workshop",
+        "avatar": "AVATAR[1]",
+        "name": "jack",
+        "firstName": "jack",
+        "lastName": "Jonh",
+        "email": "jonh@example.com",
+        "mobile": "1222334",
+        "workName": "workName2",
+        "vatNumber": "11223355",
+        "addrLine": "addrLine",
+        "addrLine2": "addrLine2",
+        "areaCode": "areaCode",
+        "pointsBalance": "15,000",
+        "counts": [
+            {
+                "count": 1500,
+                "label": "POINTS"
+            },
+            {
+                "count": 10,
+                "label": "MECHANICS"
+            },
+            {
+                "count": 422,
+                "label": "DELIVERIES"
+            },
+            {
+                "count": 2,
+                "label": "RANKING"
+            }
+        ],
+        "mechanics": [
+            {
+                "avatar": "AVATAR[0]",
+                "firstName": "NAME1",
+                "lastName": "SURNAME1"
+            },
+            {
+                "avatar": "AVATAR[1]",
+                "firstName": "NAME2",
+                "lastName": "SURNAME2"
+            },
+            {
+                "avatar": "AVATAR[2]",
+                "firstName": "NAME3",
+                "lastName": "SURNAME3"
+            }
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+  "pointsBalance": "1500",
+  "rewards": [
+    {
+      "subject": "FOOD & BEVERAGE",
+      "image": "BRAND[0]",
+      "name": "kfc",
+      "website": "http://example.com",
+      "title": "15% Off Purchase",
+      "title2": "valid until 2 feb 2021",
+      "title3": "Terms and conditions apply",
+      "description": "Description  text of what this offer entails, sed ut perspicies unde omins iste natus error at volupation accustem.\n Eaua Ipsa",
+      "points": 1500,
+      "vouchersRemaining": 1021,
+      "timeRemaining": "2h 22m 2s"
+    }
+  ],
+  "pointsToExpire": 1,
+  "list": {
+    "foods": [
+      {
+        "brand": "PARTNER NAME1",
+        "title": "15% Off Purchases",
+        "image": "BRAND[0]",
+        "vote": 20000
+      },
+      {
+        "brand": "PARTNER NAME2",
+        "image": "BRAND[1]",
+        "title": "15% Off Purchases",
+        "vote": 20000
+      }
+    ],
+    "vocations": [
+      {
+        "brand": "PARTNER NAME1",
+        "title": "15% Off Purchases",
+        "image": "VOCATION[0]",
+        "vote": 20000
+      },
+      {
+        "brand": "PARTNER NAME2",
+        "image": "VOCATION[1]",
+        "title": "15% Off Purchases",
+        "vote": 20000
+      }
+    ]
+  }
+}
